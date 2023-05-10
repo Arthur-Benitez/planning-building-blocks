@@ -1,0 +1,18 @@
+
+
+# Suggested commit template:
+# 
+# <type>[optional scope]: <description>
+# 
+# [optional body]
+# 
+# [optional footer]
+# 
+# Standard types:
+#
+# - feat: a feature that is visible for end users.
+# - fix: a bugfix that is visible for end users.
+# - chore: a change that doesn't impact end users (e.g. chances to CI pipeline)
+# - docs: a change in the README or documentation
+# - refactor: a change in production code focused on readability, style and/or performance.
+#
